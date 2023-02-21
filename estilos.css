@@ -1,0 +1,39 @@
+.box{
+    border: 1px solid black;
+    background-color: lightcoral;
+}
+
+.parent{
+    border: 1px solid black;
+    padding: 1px;
+}
+
+.fifty-percent{
+    width: 50%;
+}
+
+.one-hundred-pixels{
+    width: 100px;
+}
+
+.parent{
+    width: 150px;
+}
+
+.twenty-five-vh{
+    height: 25vh;
+}
+
+.fifty-vw{
+    width: 50vw;
+}
+
+/*
+1. Explicar undidades absolutas y relativas
+    pixeles vs %
+
+2. Las relativas están basadas en el tamaño del padre (primer padre que tiene un tamaño)
+
+
+3. Unidades vh y vw
+*/
